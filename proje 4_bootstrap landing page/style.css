@@ -1,0 +1,65 @@
+.imgSlider {
+  height: 600px;
+}
+
+body {
+  padding-top: 50px;
+  font-family: "Raleway", sans-serif;
+}
+
+.about {
+  background-color: #f2f2f2;
+}
+
+.brace {
+  border: none;
+  border-top: 3px solid #343a40;
+  max-width: 250px;
+  margin: 25px auto;
+}
+
+.iwhite {
+  color: #343a40;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  border: 10px solid #fff;
+  background-color: #fff;
+}
+
+.igray {
+  color: #343a40;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  border: 10px solid #f2f2f2;
+  background-color: #f2f2f2;
+}
+
+.teamCard > img:hover {
+  opacity: 0.8;
+}
+
+.gallery {
+  background-color: #f2f2f2;
+}
+
+.figure:hover {
+  opacity: 0.8;
+}
+
+.formItems {
+  padding: 10px;
+}
+
+.inputt {
+  height: 200px;
+}
+
+.inputTitle {
+  padding-left: 50px;
+}
+
+.buttonSend {
+  margin-left: 50px;
+}
