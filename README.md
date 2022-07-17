@@ -14,5 +14,5 @@ The projects I've completed during the Web Development Course
 <hr>
 
 4.  [Project 4 - Bootstrap Landing Page](https://github.com/hakanozdemir85/Arabuleu_Course_Projects/tree/main/proje%204_bootstrap%20landing%20page) / [Demo Link](https://htmlpreview.github.io/?https://github.com/hakanozdemir85/Arabuleu_Course_Projects/blob/main/proje%204_bootstrap%20landing%20page/index.html#carouselExampleIndicators) <br><br><br>
-![bootstrap]()
+![bootstrap](https://github.com/hakanozdemir85/Arabuleu_Course_Projects/blob/main/proje%204_bootstrap%20landing%20page/bootstrap.gif)
 <hr>
